@@ -12,7 +12,7 @@ I'm constantly searching for new things to learn!  🧠
 
 ### My closest goals
 💛 Deepen my knowledge on testing technologies  
-💚 Start me in Cypersecurity and pentesting
+💚 Start me in Cypersecurity and pentesting       
 🧡 Start me in Python
 
 ### A little more about me
